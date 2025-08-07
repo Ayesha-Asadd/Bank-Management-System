@@ -117,6 +117,3 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 > ✨ Designed & developed by [Ayesha Asad](https://github.com/Ayesha-Asadd) – Passionate about clean UI, smart systems, and impactful web development.
-
-Let me know if you want a version with a **banner**, **GIF demo**, or **live demo link** too!
-```
