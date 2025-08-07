@@ -41,22 +41,27 @@
 ## 📸 Preview Screens
 
 ### 🔹 Dashboard  
-![Dashboard](https://github.com/user-attachments/assets/12f56266-cfb4-433f-9958-e2a9c05ebe59)
+<img width="1898" height="909" alt="image" src="https://github.com/user-attachments/assets/16aa4d88-c39f-4a2b-8496-91bedfa901a0" />
 
 ### 🔹 Fund Transfer  
-![Transfer](https://github.com/user-attachments/assets/04c38654-2fb0-4d8e-b091-f709376b1298)
+<img width="1870" height="893" alt="image" src="https://github.com/user-attachments/assets/0bb7c845-9bdb-40be-9787-5cba45f321cc" />
+
 
 ### 🔹 Bill Payment  
-![Bill Pay](https://github.com/user-attachments/assets/96f376ed-fc1e-4ed6-badb-f4552146de3b)
+<img width="1880" height="892" alt="image" src="https://github.com/user-attachments/assets/20442f9f-a236-4d64-ab1a-36cbffd8aa0c" />
+
 
 ### 🔹 Statements  
-![Statements](https://github.com/user-attachments/assets/3b8223a2-0d17-4f90-86dd-f3fb43c1acb1)
+<img width="1897" height="869" alt="image" src="https://github.com/user-attachments/assets/ca6cd012-f66a-4f02-b84a-4cbd57cad28c" />
+
 
 ### 🔹 Loan View  
-![Loan](https://github.com/user-attachments/assets/298a7945-b009-438d-8ab0-c29fd84f2c0d)
+<img width="1901" height="900" alt="image" src="https://github.com/user-attachments/assets/40d0335a-07d1-473f-8e51-09a505725580" />
+
 
 ### 🔹 Profile  
-![Profile](https://github.com/user-attachments/assets/0fab1171-91c6-4036-a8b6-ab284f88bc9d)
+<img width="1877" height="911" alt="image" src="https://github.com/user-attachments/assets/ece3defd-e7c2-457f-8ac5-26d3964631a3" />
+
 
 ---
 
